@@ -1,0 +1,198 @@
+@font-face {
+   font-family: myFirstFont;
+   src: url(../fonts/NHaasGroteskTXPro-75Bd.ttf);
+}
+
+@font-face {
+   font-family: myFirstFont1;
+   src: url(../fonts/NHaasGroteskDSPro-35XLt.ttf);
+}
+
+
+h2{
+	font-family: myFirstFont;
+}
+
+h3 {
+	font-weight: 300;
+	font-size: 50px;
+	font: bold;
+
+}
+span{
+	font-family: myFirstFont1;
+}
+
+
+*{
+	margin: 0;
+	padding: 0;
+	height: auto;
+}
+#cont-right{
+	text-align: right;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 2px;
+	margin-top: 10px;
+	font-size: 25px;
+	color: #85807f;
+}
+.background{
+	background-color: #f2f2f2;
+	width: 90%;
+	height: auto;
+
+	margin-left: 5%;
+	margin-right: 5%;
+	color: #85807f;
+}
+h4{
+	color: #85807f;
+	padding: 15px;
+	font-family: myFirstFont1;
+}
+h5{
+	color: #85807f;
+	font-family: myFirstFont1;
+	letter-spacing: 1px;
+}
+hr{
+	background-color: #85807f;
+	color: #85807f;
+	margin-top: 1px;
+}
+span{
+	font-size: 16px;
+	text-align: center;
+}
+.fa-caret-down{
+	color: #70ad47;
+	font-size: 40px;
+}
+#com{
+	margin-left: -15px;
+	font-weight: 100;
+}
+.fa-building{
+	background-color: #585b62;
+	background-size: 200px;
+	font-size: 20px;
+	border-radius: 200px;
+}
+p{
+	margin-top: -35px;
+	align-items: center;
+	grid-gap: normal;
+	line-height: 16px;
+	font-family: myFirstFont1;
+}
+#up{
+	margin-top: -40px;
+}
+
+#mr{
+	margin-top: -35px;
+}
+.right{
+	text-align: right;
+}
+#one{
+	margin-right: 1.5%;
+}
+.text{
+	text-align: justify;
+}
+.div-2{
+	width: 90%;
+	height: auto;
+
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.cl-size-1{
+	background-color: #d0cece;
+	height: auto;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
+.note{
+	font-size: 14px;
+}
+.cl-size-2{
+	background-color: #ffe699;
+	height: auto;
+	color: #989589;
+	padding: 10px;
+	text-align: center;
+}
+.cl-size-3{
+	background-color: #3c8fbb;
+	height: 90px;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
+.cl-size-4{
+	background-color: #4e6eb1;
+	height: 90px;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
+.cl-size-5{
+	background-color: #d9444e;
+	height: 90px;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
+img{
+	align-self: center;
+}
+
+.cl-size-6{
+	background-color: #9dd7a5;
+	height: 90px;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
+
+
+.cl-size-7{
+	background-color: white;
+	height: 90px;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
+.cl-size-8{
+	background-color: #f77c48;
+	height: 90px;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
+.cl-size-a{
+	background-color: white;
+	height: 90px;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
+.cl-size-b{
+	background-color: white;
+	height: 90px;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
+.cl-size-c{
+	background-color: white;
+	height: 90px;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
